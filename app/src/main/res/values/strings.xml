@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">film</string>
+    <string-array name="films">
+        <item>Назад в будущее</item>
+        <item>Бегущий по лезвию</item>
+        <item>Остров проклятых</item>
+        <item>Побег из Шоушенка</item>
+        <item>1+1</item>
+        <item>Логан</item>
+        <item>Престиж</item>
+        <item>Бриллиантовая рука</item>
+        <item>Тихоокеанский рубеж</item>
+        <item>Кинг-Конг</item>
+    </string-array>
+    <string-array name="links">
+        <item>https://www.kinopoisk.ru/film/nazad-v-budushhee-1985-476/</item>
+        <item>https://www.kinopoisk.ru/film/begushchiy-po-lezviyu-1982-403/</item>
+        <item>https://www.kinopoisk.ru/film/ostrov-proklyatykh-2009-397667/</item>
+        <item>https://www.kinopoisk.ru/film/pobeg-iz-shoushenka-1994-326/</item>
+        <item>https://www.kinopoisk.ru/film/1-plus-1-2011-535341/</item>
+        <item>https://www.kinopoisk.ru/film/logan-2017-807682/</item>
+        <item>https://www.kinopoisk.ru/film/prestizh-2006-195334/</item>
+        <item>https://www.kinopoisk.ru/film/brilliantovaya-ruka-1968-46225/</item>
+        <item>https://www.kinopoisk.ru/film/tikhookeanskiy-rubezh-2013-546915/</item>
+        <item>https://www.kinopoisk.ru/film/king-kong-2005-5908/    </item>
+    </string-array>
+
+</resources>
